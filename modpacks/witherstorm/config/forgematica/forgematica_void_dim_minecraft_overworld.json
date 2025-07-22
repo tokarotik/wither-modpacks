@@ -1,0 +1,87 @@
+{
+  "selections": {
+    "mode": "NORMAL",
+    "current": "D:\\Projects\\Minecraft\\Project\\WitherStorm\\launcher\\liblauncher\\minecraft\\config\\forgematica\\area_selections_per_world\\void\\area_selections\\story mode.json"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Projects\\Minecraft\\Project\\WitherStorm\\launcher\\liblauncher\\minecraft\\schematics\\story mode endercon.litematic",
+        "name": "story mode endercon",
+        "origin": [
+          1000,
+          92,
+          -123
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "story mode endercon",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "story mode endercon",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "story mode endercon",
+    "current": "story mode endercon",
+    "boxes": [
+      {
+        "pos1": [
+          -300,
+          3,
+          -143
+        ],
+        "pos2": [
+          -303,
+          3,
+          -141
+        ],
+        "name": "story mode endercon"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

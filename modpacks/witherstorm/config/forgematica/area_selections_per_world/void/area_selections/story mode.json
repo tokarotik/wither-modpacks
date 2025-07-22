@@ -1,0 +1,19 @@
+{
+  "name": "story mode",
+  "current": "story mode",
+  "boxes": [
+    {
+      "pos1": [
+        -302,
+        9,
+        -151
+      ],
+      "pos2": [
+        -302,
+        9,
+        -151
+      ],
+      "name": "story mode"
+    }
+  ]
+}
