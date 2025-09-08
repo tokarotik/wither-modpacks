@@ -3,7 +3,7 @@
   "author": "ScriptCat(Tokarotik)",
   "description": "Survive in crazy world!",
   "all_description": "Try to survive in crazy world with insane mobs!!!",
-  "args": "-v 1.21",
+  "args": "",
   "java": 21,
   "ip": "localhost:5566",
   "type_version": 0.1,
