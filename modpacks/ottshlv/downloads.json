@@ -2,9 +2,15 @@
 	"downloads": 
 	[
 		{
-			"url": "someurl",
-			"dest": "config/disccord/ffmpeg/"
+			"url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-lgpl.zip",
+			"mode": 3,
+			"dest": "config/disccord/ffmpeg"
 		},
-
+		{
+			"url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe",
+			"mode": 1,
+			"dest": "config/disccord/"
+		}
+		
 	]
 }
