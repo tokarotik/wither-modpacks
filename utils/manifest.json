@@ -1,6 +1,6 @@
 {
-  "liblauncher.exe": 1.0,      // legacy launcher
-  "liblaunchplusone.exe": 1.0, // for neoforge modpack
-  "Downloader.exe": 1.0,       // downloader
-  "launcher": 1.0              // gui launcher
+  "liblauncher.exe": 1.0,     
+  "liblaunchplusone.exe": 1.0, 
+  "Downloader.exe": 1.0,       
+  "launcher": 1.0              
 }
