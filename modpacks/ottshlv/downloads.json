@@ -1,0 +1,10 @@
+{
+	"downloads": 
+	[
+		{
+			"url": "someurl",
+			"dest": "config/disccord/ffmpeg/"
+		},
+
+	]
+}

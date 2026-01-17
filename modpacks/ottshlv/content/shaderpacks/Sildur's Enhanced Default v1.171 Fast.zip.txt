@@ -1,0 +1,22 @@
+#Wed Dec 24 19:28:37 EET 2025
+Colored_Shadows=false
+Godrays=true
+Reflections=false
+Shadows=false
+TAA=true
+TransparentReflections=false
+WaterReflection=false
+Waving_Entities=false
+Waving_Fire=false
+Waving_Grass=false
+Waving_Lanterns=false
+Waving_Lava=false
+Waving_Leaves=false
+Waving_Tallgrass=false
+Waving_Vines=false
+Waving_Water=false
+animationSpeed=0.25
+emissive_B=0.7
+emissive_G=1.7
+grass_shadows=false
+grays_quality=2
