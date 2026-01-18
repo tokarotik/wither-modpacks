@@ -1,7 +1,7 @@
 {
-  "liblauncher.exe": 1.0,     
-  "liblaunchplusone.exe": 1.0, 
-  "Downloader.exe": 1.0,       
-  "launcher.exe": 1.0,
-  "custom_shark.exe": 1.0         
+  "liblauncher.exe": "1.0",     
+  "liblaunchplusone.exe": "1.0", 
+  "Downloader.exe": "1.0",       
+  "launcher.exe": "1.1",
+  "custom_shark.exe": "1.1"       
 }
