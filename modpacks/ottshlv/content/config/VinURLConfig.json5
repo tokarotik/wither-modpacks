@@ -1,0 +1,11 @@
+{
+	"downloadEnabled": true,
+	"updatesOnStartup": true,
+	"showDescription": true,
+	"urlWhitelist": [
+		"https://www.youtube.com",
+		"https://soundcloud.com",
+		"https://youtu.be"
+	],
+	"audioBitrate": "MEDIUM"
+}
